@@ -1,6 +1,6 @@
-## Neural Networks-Week 1-Notizen
+# Neural Networks-Week 1-Notizen
 
-# Week 1
+## Week 1
 
 *Was machen die Layers?*  
 Die erste Layer ist meist die Input Layer, sie gibt die Rohdaten ein. Diese Daten
