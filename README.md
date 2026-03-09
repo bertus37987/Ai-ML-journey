@@ -10,5 +10,5 @@ Mathematisch halte ich es so zugänglich wie möglich.
 Detaillierte Wochen- und Monatsroadmaps sind in Arbeit –
 aktuell lade ich primär Notizen und Ressourcen hoch.
 
-> Falls ich bei Ressourcen Credits vergesse, gib mir gerne einen Hinweis! 🙏
+> Falls ich bei Ressourcen Credits vergesse, gib mir gerne einen Hinweis! 🙏  
 > Die Documentation wird zu 90% von Hand Geschrieben
