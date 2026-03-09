@@ -30,3 +30,9 @@ bestimmen also, wie stark ein Input gewichtet wird.
 Eine Aktivierungsfunktion entscheidet, ob das Neuron ausgelöst wird. Heutzutage
 wird meistens die ReLU verwendet. Sie passt negative Werte an – diese werden zu
 null – positive Werte bleiben gleich.
+
+# Verwendete Resourcen:  
+3Blue1Brown:  But what is a neural network? | Deep learning chapter 1  
+https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
+
