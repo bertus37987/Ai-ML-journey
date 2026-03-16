@@ -27,14 +27,15 @@ For bigger Project i want to use new Repos, all the small Projects you can find 
 -An Transfomer RAG system  
 -An Reasoning Model from Scratch (maybe) / (or rather) Higly modified  
 -An higly agentic system (native computer use)  
-
-##### More advanct (or impossible)
--Developing a new architecture for Transfomers / (or) modifing the architecture
--Developing and own kind of tokenisation or learning algorithm  
--Developing an new tokeniser
+##### More advanct (or impossible)  
+-Developing a new architecture for Transfomers / (or) modifing the architecture  
+-Developing and own kind of tokenisation or learning algorithm   
+-Developing an new tokeniser  
 -*Note* What i think is really cool and interesting is making intelligent small models, this is maybe a way to hard task for me but it would be fun doing !  
-> How YOU can contact me, write me an email: willyebert@protonmail.com
->Author Willy
+*note: because i'm german as i told you about earlier my english wont be the best, and this will have a few grammar mistakes, but i think in the age of AI this wont be a bad sign -written by an Human*  
+
+> How YOU can contact me, write me an email: willyebert@protonmail.com  
+>Author Willy  
 
 
 
