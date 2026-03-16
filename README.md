@@ -19,6 +19,7 @@ My end goal is to start developing new systems in the field of reasoning and in 
 How i would start over again would be reading the book by Andrew W. Task *grokking deep learning* it provides a really easy visual explanation of all the topics, for a visualisation viedeo i would watch 3Blue1Brown, though it can be really hard to understand the first time.  
 
 #### Project ideas
+
 For bigger Project i want to use new Repos, all the small Projects you can find here.  
 ##### Project ideas (! not yet made !):
 - A object tracker / classifier with an ESP-32  
