@@ -21,7 +21,7 @@ for i in range(learning_attempts):
         weight = weight - step
     elif error_up < error_down:
         weight = weight + step #For visual else would be better, but im not 100% sure here
+    
 
 print(prediction) #Stimmt fast mit goal überein
-''' Mir war ein Kleiner fehler unterlaufen ich hatte die **2 vergessen, das hat gut gezeigt das es sehr wichtig
- ist das die ergebnisse immer positiv sind'''
+''' I had an small error here i forgot the **2 that shows how important it is that the number stays positive and lager errors get larger'''
