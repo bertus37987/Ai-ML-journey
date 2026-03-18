@@ -16,7 +16,7 @@ By that i also mean writing guide papers.
 My end goal is to start developing new systems in the field of reasoning and in the transfomer architecture, what i really would like to do is modifing architecture and piplines to improve them.  
 
 #### How to use this Repo to learn Maschine Learning and AI yourself ?
-How i would start over again would be reading the book by Andrew W. Task *grokking deep learning* it provides a really easy visual explanation of all the topics, for a visualisation viedeo i would watch 3Blue1Brown, though it can be really hard to understand the first time.  
+How i would start over again would be reading the book by Andrew W. Task *grokking deep learning* it provides a really easy visual explanation of all the topics, for a visualisation viedeo i would watch 3Blue1Brown, though it can be really hard to understand the first time. Even for learning the transformer architecture i'm the opinion that having a good understanding of deep learning and maschine learning in general is important and can be very helpfull.  
 
 #### Project ideas
 
