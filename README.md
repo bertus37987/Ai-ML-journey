@@ -1,1 +1,3 @@
-# This Reposetory is not used anymore, but i still like my work to nn in week1&week2
+# This Reposetory is Closed
+
+**But is still like my work to neural networks from week1 and week2 !**
